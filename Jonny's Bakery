@@ -7,7 +7,7 @@
     </head>
     <body>
         <h1><b>Jonny's Bakery</b></h1>
-        
+        <A HREF="cookies/Cookies.html">Click Here for the Cookie Page</A>
     </body>    
         
 </html>
